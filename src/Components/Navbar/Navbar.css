@@ -1,0 +1,28 @@
+.navbar{
+    background-color: rgb(228, 188, 188);
+    color: rgb(78, 5, 5);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    
+}
+.name{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 100px;
+}
+.n-link{
+    font-size: 20px;
+    color: rgb(175, 88, 88);
+    margin: 0 20px;
+}
+.page-tilte{
+    background-color: rgb(124, 20, 20);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+}
