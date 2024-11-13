@@ -3,7 +3,7 @@ import "./index.css"
 
 import Home from './views/Home/Home';
 import About from './views/About/About';
-import Contact from './views/Contact/';
+import Contact from './Views/Contact/Contact';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
